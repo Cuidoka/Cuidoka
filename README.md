@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6b01d0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=PT+Serif&pause=1000&color=6B24F7&background=FFFFFF00&center=true&width=450&lines=Hello%2C+My+name+is+Vitor+Yago+(Cuidoka);I+am+studying+Software+Engineering;And+this+is+my+cyber+world!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=PT+Serif&pause=1000&color=6B24F7&background=FFFFFF00&center=true&width=445&lines=Hello%2C+My+name+is+Vitor+Yago+(Cuidoka);I+am+studying+Software+Engineering;And+this+is+my+cyber+world!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cuidoka&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=6b01d0" alt="Cuidoka github stats"/> 
