@@ -14,26 +14,13 @@
 </div> 
  
 ### Studying in this moment:
-![Python]
-![JavaScript]
-![Java]
-![PHP]
-![React]
-![TailWind]
-![TypeScript]
-![C++]
+Python, JavaScript, Java, PHP, React, TailWind, TypeScript, C++
  
 ### Tools:
-![Visual Studio]
-![Visual Studio Code]
-![Git]
-![GitHub]
-![Windows]
-![microsoft-office]
+Visual Studio, Visual Studio Code, Git, GitHub, Windows
  
 ### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+HTML, CSS, BootStrap
 
 
 
